@@ -5,7 +5,7 @@ Hello, I'm Mitsuharu Emoto.
 
 
 
-## tech
+## Tech
 
 - [GitHub](https://github.com/mitsuharu)
 - [Bitbucket](https://bitbucket.org/mthr1982/)
@@ -22,7 +22,7 @@ Hello, I'm Mitsuharu Emoto.
 - [PyPI](https://pypi.org/user/mitsuharu_e/)
 
 
-## private
+## Private
 
 - [Twitter](https://twitter.com/mitsuharu_e)
 - [Facebook](https://www.facebook.com/mitsuharu.emoto)
