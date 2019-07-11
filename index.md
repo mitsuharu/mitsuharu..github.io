@@ -5,9 +5,6 @@ Hello, I'm Mitsuharu Emoto.
 	- Objective-C
 	- Flutter (Dart)
 	- Python (TensorFlow, scikit-learn, ...)
-- [Profile(Wantedly)](https://www.wantedly.com/users/2309587)
-
-
 
 ## Tech
 
@@ -31,3 +28,4 @@ Hello, I'm Mitsuharu Emoto.
 - [Twitter](https://twitter.com/mitsuharu_e)
 - [Facebook](https://www.facebook.com/mitsuharu.emoto)
 - [Blog(mthr Blog+)](https://mthr.blogspot.com/)
+- [Profile(Wantedly)](https://www.wantedly.com/users/2309587)
