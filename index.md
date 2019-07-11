@@ -1,6 +1,10 @@
 Hello, I'm Mitsuharu Emoto.
 
-- I likes iOS, Flutter and machine learning.
+- I likes iOS app and machine learning.
+	- Swift
+	- Objective-C
+	- Flutter (Dart)
+	- Python (TensorFlow, scikit-learn, ...)
 - [Profile(Wantedly)](https://www.wantedly.com/users/2309587)
 
 
