@@ -1,6 +1,6 @@
 Hello, I'm Mitsuharu Emoto.
 
-- I likes iOS app and machine learning.
+- I like iOS app and machine learning.
 	- Swift
 	- Objective-C
 	- Flutter (Dart)
