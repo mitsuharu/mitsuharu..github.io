@@ -1,4 +1,4 @@
-Hello, World! I'm Mitsuharu Emoto.
+Hello world, I'm Mitsuharu Emoto.
 
 - I like iOS app and machine learning.
 	- Swift
