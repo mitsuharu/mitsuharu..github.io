@@ -1,10 +1,13 @@
-Hello, I'm Mitsuharu Emoto.
+Hello, World! I'm Mitsuharu Emoto.
 
 - I like iOS app and machine learning.
 	- Swift
 	- Objective-C
 	- Flutter (Dart)
 	- Python (TensorFlow, scikit-learn, ...)
+- My hobby is
+	- to watch movies
+	- to trip somewhere
 
 ## Tech
 
