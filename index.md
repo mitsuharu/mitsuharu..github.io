@@ -5,9 +5,6 @@ Hello, World! I'm Mitsuharu Emoto.
 	- Objective-C
 	- Flutter (Dart)
 	- Python (TensorFlow, scikit-learn, ...)
-- My hobby is
-	- to watch movies
-	- to trip somewhere
 
 ## Tech
 
