@@ -27,5 +27,6 @@ Hello world, I'm Mitsuharu Emoto.
 
 - [Twitter](https://twitter.com/mitsuharu_e)
 - [Facebook](https://www.facebook.com/mitsuharu.emoto)
+- [Blog(mthr Blog*)](https://mthr.hatenablog.com/)
 - [Blog(mthr Blog+)](https://mthr.blogspot.com/)
 - [Profile(Wantedly)](https://www.wantedly.com/users/2309587)
