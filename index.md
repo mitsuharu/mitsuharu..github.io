@@ -4,6 +4,7 @@ Hello world, I'm Mitsuharu Emoto.
 	- Swift
 	- Objective-C
 	- Flutter (Dart)
+	- React Native (TypeScript)
 	- Python (TensorFlow, scikit-learn, ...)
 
 ## Tech
