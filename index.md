@@ -19,9 +19,10 @@ Hello world, I'm Mitsuharu Emoto.
 
 ### app/packages
 
-- [‎App Store](https://apps.apple.com/jp/developer/mitsuharu-emoto/id322739939)
+- [App Store](https://apps.apple.com/jp/developer/mitsuharu-emoto/id322739939)
 - [Google Play](https://play.google.com/store/apps/developer?id=Mitsuharu+Emoto)
 - [PyPI](https://pypi.org/user/mitsuharu_e/)
+- [npm](https://www.npmjs.com/~mitsuharu_e)
 
 
 ## Private
