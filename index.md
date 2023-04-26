@@ -27,8 +27,16 @@ Hello world, I'm Mitsuharu Emoto.
 
 ## Private
 
+### SNS
+
 - [Twitter](https://twitter.com/mitsuharu_e)
 - [Facebook](https://www.facebook.com/mitsuharu.emoto)
-- [Blog(mthr Blog*)](https://mthr.hatenablog.com/)
-- [Blog(mthr Blog+)](https://mthr.blogspot.com/)
-- [Profile(Wantedly)](https://www.wantedly.com/id/mitsuharu_emoto)
+- [Bluesky](https://bsky.app/profile/mitsuharu.bsky.social)
+- [Misskey.io](https://misskey.io/@mitsuharu_e)
+- [Wantedly](https://www.wantedly.com/id/mitsuharu_emoto)
+
+### Blog
+
+- [mthr Blog](https://mthr.hatenablog.com/)
+- [(deprecated) mthr Blog+](https://mthr.blogspot.com/)
+
